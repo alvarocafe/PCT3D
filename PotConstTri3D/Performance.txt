@@ -1,0 +1,56 @@
+Número de nós: 624
+Tempo para montar as matrizes = 2.05165308
+Tempo para resolver o sistema = 0.732925931
+Tempo para reordenar as variaveis = 0.030070165
+Tempo para plotar os resultados = 2.67064068
+
+Número de nós: 9048
+Tempo para montar as matrizes = 336.799750236
+Tempo para resolver o sistema = 15.394120959
+Tempo para reordenar as variaveis = 0.01860536
+Tempo para plotar os resultados = 0.233169506
+
+Número de nós: 9358
+Tempo para montar as matrizes = 372.826819311
+Tempo para resolver o sistema = 17.500025624
+Tempo para reordenar as variaveis = 0.022665778
+Tempo para plotar os resultados = 2.383358623
+
+Número de nós: 9772
+Tempo para montar as matrizes = 415.375716659
+Tempo para resolver o sistema = 19.551630967
+Tempo para reordenar as variaveis = 0.017693212
+Tempo para plotar os resultados = 0.236373961
+
+Número de nós: 11776
+Tempo para montar as matrizes = 619.857961179
+Tempo para resolver o sistema = 32.887975825
+Tempo para reordenar as variaveis = 0.017268745
+Tempo para plotar os resultados = 0.277694374
+
+Número de nós: 12128
+Tempo para montar as matrizes = 617.49832289
+Tempo para resolver o sistema = 36.065009333
+Tempo para reordenar as variaveis = 0.019328629
+Tempo para plotar os resultados = 0.584437277
+
+Número de nós: 17408
+Tempo para montar as matrizes = 1178.829980243
+Tempo para resolver o sistema = 75.695774568
+Tempo para reordenar as variaveis = 0.354546797
+Tempo para plotar os resultados = 2.559446896
+
+Número de nós: 17520
+Tempo para montar as matrizes = 1086.066939104
+Tempo para resolver o sistema = 75.679239542
+Tempo para reordenar as variaveis = 0.539504782
+Tempo para plotar os resultados = 6.312135726
+
+Número de nós: 17980
+Tempo para montar as matrizes = 1140.771201388
+Tempo para resolver o sistema = 134.270465291
+Tempo para reordenar as variaveis = 18.812590007
+Tempo para plotar os resultados = 33.758428496
+
+Número de nós: 41808
+LoadError: OutOfMemoryError()
