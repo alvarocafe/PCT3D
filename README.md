@@ -1,7 +1,7 @@
 # Potential Constant Triangular 3D BEM implementation
 This is an implementation of a Laplace equation boundary element method (BEM) solver to use alongside FreeCAD and Gmsh. Some examples are solved.
 
-This program is written in Julia 0.6.2.
+This program is written in Julia 1.2
 
 To run the solver, simply write in the Julia shell:
 
